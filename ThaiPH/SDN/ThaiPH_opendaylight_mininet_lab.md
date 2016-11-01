@@ -129,7 +129,7 @@ sudo apt-get install openjdk-7-jdk
 sudo vi /etc/environment
 
 #them dong sau vao cuoi file
-JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64
+JAVA_HOME="/usr/lib/jvm/java-1.7.0-openjdk-amd64"
 
 #ap dung cau hinh
 source /etc/environment
